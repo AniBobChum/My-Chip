@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a microchip that lights up an LED digital number and an LED light. 
 
 ## How to test
 
-Explain how to use your project
+Test the project by starting the simulation in Wokwi then flicking switches.
 
 ## External hardware
 
